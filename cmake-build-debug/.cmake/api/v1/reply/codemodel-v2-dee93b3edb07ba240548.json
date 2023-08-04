@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Chess::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Chess-Debug-5611c6b627d9763e2cd6.json",
+					"jsonFile" : "target-Chess-Debug-756ea0f710d7d84644fe.json",
 					"name" : "Chess",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/borko/CLionProjects/Learning/Chess/cmake-build-debug",
-		"source" : "C:/Users/borko/CLionProjects/Learning/Chess"
+		"build" : "C:/Users/borko/CLionProjects/Chess/cmake-build-debug",
+		"source" : "C:/Users/borko/CLionProjects/Chess"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 5
 	}
 }
